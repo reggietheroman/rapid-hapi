@@ -1,0 +1,17 @@
+{
+  "name": "rapid-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bootstrap.js"
+  },
+  "author": "Reggie Bigornia",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "hapi": "^16.2.0"
+  }
+}
